@@ -14,10 +14,6 @@ class Player
     selected_fields.push(selected_field)
   end
 
-  def return_true
-    true
-  end
-
   def check_win
     outcome = false
     return unless selected_fields.length >= 3
