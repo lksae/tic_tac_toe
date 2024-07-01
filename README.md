@@ -4,13 +4,16 @@ Think about how you would set up the different elements within the game… What 
 
 game rules
 
-game of Tic Tac Toe -> class game
+game of Tic Tac Toe -> class game DONE
 
 "blank" board in the beginning -> game variable (nested array) DONE
 
-two players play -> class player, initiated when new game starts
+two players play -> class player DONE
+
+players are initiated when new game starts -> game method DONE
 
 while game not over -> game method
+
     display board -> game method DONE
 
     one player selects as x a field on board -> player method
